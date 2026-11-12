@@ -1,0 +1,5 @@
+name: TerminalMC
+version: '${version}'
+main: io.github.blockxe.terminalmc.TerminalMC
+api-version: '1.21'
+description: ConPTY / AF_UNIX terminal stream proof of concept
